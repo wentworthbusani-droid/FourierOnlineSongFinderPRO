@@ -123,9 +123,7 @@ public class FourierOnlineSongFinderPRO extends JFrame {
 
     private String welcome() {
         return """
-        FOURIER ONLINE SONG FINDER PRO
 
-        This version fixes the 'results: []' problem by not relying on AcoustID only.
 
         Flow:
           1. Choose a clean audio clip.
